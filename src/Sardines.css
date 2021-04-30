@@ -1,0 +1,14 @@
+.Sardines {
+    background-image: url("https://www.knkx.org/sites/kplu/files/201109/sardines.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1500px;
+    width: 1500px;
+    margin: auto;
+    background-position: center;
+}
+
+.Sardines p {
+    font-size: 3em;
+    color: blue
+}

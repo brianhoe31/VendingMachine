@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.App .active-link{
+  color: red;
+  border-bottom: 1px solid white;
+}
+
+
+.App-nav {
+  display: block;
+  position: absolute;
+  top: 200px;
+  left: 1200px;
+  background: grey;
+}

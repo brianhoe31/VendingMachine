@@ -1,0 +1,10 @@
+
+.VendingMachine {
+    background-image: url("./VendingMachine.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1500px;
+    width: 1500px;
+    margin: auto;
+    background-position: center;
+  }
